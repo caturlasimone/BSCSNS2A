@@ -1,7 +1,7 @@
 Hello World!
 Hello BSCS-NS 2A
 
-main()
+int main()
 {
 	printf("Hello World!");
 	return 0;
