@@ -4,5 +4,5 @@ Hello BSCS-NS 2A
 main()
 {
 	printf("Hello World!");
-	return;
+	return 0;
 }
